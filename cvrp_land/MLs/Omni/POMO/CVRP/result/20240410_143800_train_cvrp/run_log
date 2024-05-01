@@ -1,0 +1,9 @@
+[2024-04-10 14:38:03] train.py(133) : DEBUG_MODE: False
+[2024-04-10 14:38:03] train.py(134) : USE_CUDA: True, CUDA_DEVICE_NUM: 0
+[2024-04-10 14:38:03] train.py(135) : env_params{'problem_size': 100, 'pomo_size': 100}
+[2024-04-10 14:38:03] train.py(135) : model_params{'embedding_dim': 128, 'sqrt_embedding_dim': 11.313708498984761, 'encoder_layer_num': 6, 'qkv_dim': 16, 'head_num': 8, 'logit_clipping': 10, 'ff_hidden_dim': 512, 'eval_type': 'argmax', 'meta_update_encoder': True}
+[2024-04-10 14:38:03] train.py(135) : optimizer_params{'optimizer': {'lr': 0.0001, 'weight_decay': 1e-06}}
+[2024-04-10 14:38:03] train.py(135) : trainer_params{'use_cuda': True, 'cuda_device_num': 0, 'seed': 1234, 'logging': {'model_save_interval': 50000, 'img_save_interval': 100, 'log_image_params_1': {'json_foldername': 'log_image_style', 'filename': 'general.json'}, 'log_image_params_2': {'json_foldername': 'log_image_style', 'filename': 'style_loss_1.json'}}, 'model_load': {'enable': True, 'path': './result/maml_250000checkpts', 'epoch': 250000}, 'pretrain_load': {'enable': False, 'path': '../../pretrained/POMO-CVRP/checkpoint-30500-cvrp100-instance-norm.pt'}}
+[2024-04-10 14:38:03] train.py(135) : meta_params{'enable': True, 'curriculum': True, 'meta_method': 'fomaml', 'data_type': 'size_distribution', 'epochs': 250000, 'early_stop_epoch': 50000, 'B': 1, 'k': 1, 'L': 0, 'meta_batch_size': 64, 'update_weight': 100, 'sch_epoch': 225000, 'solver': 'lkh3_offline', 'alpha': 0.99, 'alpha_decay': 0.999, 'beta': 0.9}
+[2024-04-10 14:38:03] train.py(135) : logger_params{'log_file': {'desc': 'train_cvrp', 'filename': 'run_log', 'filepath': './result/20240410_143800_train_cvrp'}}
+[2024-04-10 14:38:05] CVRPTrainer_meta.py(83) : Checkpoint loaded successfully from ./result/maml_250000checkpts/checkpoint-250000.pt

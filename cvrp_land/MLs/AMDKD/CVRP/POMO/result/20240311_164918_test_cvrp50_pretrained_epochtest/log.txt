@@ -1,0 +1,17 @@
+[2024-03-11 15:49:20] test.py(114) : DEBUG_MODE: False
+[2024-03-11 15:49:20] test.py(115) : USE_CUDA: True, CUDA_DEVICE_NUM: 0
+[2024-03-11 15:49:20] test.py(116) : env_params{'problem_size': 50, 'pomo_size': 50, 'distribution': {'data_type': 'uniform', 'n_cluster': 3, 'n_cluster_mix': 1, 'lower': 0.2, 'upper': 0.8, 'std': 0.07}, 'load_path': 'data/vrp_uniform50_1000_seed1234.pkl', 'load_raw': None}
+[2024-03-11 15:49:20] test.py(116) : model_params{'embedding_dim': 64, 'sqrt_embedding_dim': 8.0, 'encoder_layer_num': 6, 'qkv_dim': 8, 'head_num': 8, 'logit_clipping': 10, 'ff_hidden_dim': 512, 'eval_type': 'argmax'}
+[2024-03-11 15:49:20] test.py(116) : tester_params{'use_cuda': True, 'cuda_device_num': 0, 'model_load': {'path': 'pretrained/checkpoint-cvrp-100.pt', 'epoch': 'test'}, 'test_episodes': 800, 'test_batch_size': 100, 'augmentation_enable': True, 'aug_factor': 8, 'aug_batch_size': 100, 'test_data_load': {'enable': False, 'filename': ''}}
+[2024-03-11 15:49:20] test.py(116) : logger_params{'log_file': {'desc': 'test_cvrp50_pretrained_epochtest', 'filename': 'log.txt', 'filepath': './result/20240311_164918_test_cvrp50_pretrained_epochtest'}}
+[2024-03-11 15:49:21] CVRPTester.py(101) : episode 100/800, Elapsed[0.01m], Remain[0.07m], score:11.348, aug_score:10.982
+[2024-03-11 15:49:21] CVRPTester.py(101) : episode 200/800, Elapsed[0.02m], Remain[0.05m], score:11.354, aug_score:11.020
+[2024-03-11 15:49:22] CVRPTester.py(101) : episode 300/800, Elapsed[0.02m], Remain[0.03m], score:11.368, aug_score:11.102
+[2024-03-11 15:49:22] CVRPTester.py(101) : episode 400/800, Elapsed[0.02m], Remain[0.02m], score:11.540, aug_score:11.210
+[2024-03-11 15:49:22] CVRPTester.py(101) : episode 500/800, Elapsed[0.03m], Remain[0.02m], score:11.340, aug_score:11.022
+[2024-03-11 15:49:22] CVRPTester.py(101) : episode 600/800, Elapsed[0.03m], Remain[0.01m], score:11.237, aug_score:10.968
+[2024-03-11 15:49:23] CVRPTester.py(101) : episode 700/800, Elapsed[0.04m], Remain[0.01m], score:11.526, aug_score:11.262
+[2024-03-11 15:49:23] CVRPTester.py(101) : episode 800/800, Elapsed[0.04m], Remain[0.00m], score:11.351, aug_score:11.005
+[2024-03-11 15:49:23] CVRPTester.py(107) :  *** Test Done *** 
+[2024-03-11 15:49:23] CVRPTester.py(108) :  NO-AUG SCORE: 11.38309133052826 
+[2024-03-11 15:49:23] CVRPTester.py(109) :  AUGMENTATION SCORE: 11.071384310722351 

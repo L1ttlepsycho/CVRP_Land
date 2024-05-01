@@ -1,0 +1,839 @@
+PARAMETER_FILE = baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.par
+Reading PROBLEM_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.vrp" ... done
+ASCENT_CANDIDATES = 50
+BACKBONE_TRIALS = 0
+BACKTRACKING = NO
+# BWTSP =
+# CANDIDATE_FILE =
+CANDIDATE_SET_TYPE = ALPHA
+# DISTANCE =
+DEPOT = 1
+# EDGE_FILE =
+EXCESS = 0.00110988
+EXTERNAL_SALESMEN = 0
+EXTRA_CANDIDATES = 0 
+EXTRA_CANDIDATE_SET_TYPE = QUADRANT
+GAIN23 = NO
+GAIN_CRITERION = YES
+INITIAL_PERIOD = 450
+INITIAL_STEP_SIZE = 1
+INITIAL_TOUR_ALGORITHM = WALK
+# INITIAL_TOUR_FILE = 
+INITIAL_TOUR_FRACTION = 1.000
+# INPUT_TOUR_FILE = 
+KICK_TYPE = 4
+KICKS = 1
+# MAX_BREADTH =
+MAKESPAN = NO
+MAX_CANDIDATES = 5 
+MAX_SWAPS = 0
+MAX_TRIALS = 10000
+# MERGE_TOUR_FILE =
+MOVE_TYPE = 5 SPECIAL
+MTSP_MIN_SIZE = 1
+MTSP_MAX_SIZE = 900
+# MTSP_SOLUTION_FILE = 
+# NONSEQUENTIAL_MOVE_TYPE = 5
+# OPTIMUM =
+OUTPUT_TOUR_FILE = baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour
+PATCHING_A = 1 
+PATCHING_C = 0 
+# PI_FILE = 
+POPMUSIC_INITIAL_TOUR = NO
+POPMUSIC_MAX_NEIGHBORS = 5
+POPMUSIC_SAMPLE_SIZE = 10
+POPMUSIC_SOLUTIONS = 50
+POPMUSIC_TRIALS = 1
+POPULATION_SIZE = 10
+PRECISION = 100
+PROBLEM_FILE = baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.vrp
+RECOMBINATION = IPT
+RESTRICTED_SEARCH = YES
+RUNS = 1
+SALESMEN = 42
+SCALE = 1
+SEED = 1234
+# SINTEF_SOLUTION_FILE = 
+STOP_AT_OPTIMUM = YES
+SUBGRADIENT = YES
+# SUBPROBLEM_SIZE =
+# SUBPROBLEM_TOUR_FILE = 
+SUBSEQUENT_MOVE_TYPE = 5 SPECIAL
+SUBSEQUENT_PATCHING = YES
+# TIME_LIMIT =
+# TOTAL_TIME_LIMIT =
+# TOUR_FILE = 
+TRACE_LEVEL = 1
+VEHICLES = 42
+
+Lower bound = 1191689.3, Ascent time = 0.81 sec.
+Cand.min = 3, Cand.avg = 5.0, Cand.max = 5
+Preprocessing time = 0.83 sec.
+* 1: Cost = 0_3244816, Time = 1.13 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 2: Cost = 0_3181529, Time = 1.16 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 3: Cost = 0_3180813, Time = 1.18 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 8: Cost = 0_3179670, Time = 1.23 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 9: Cost = 0_3176761, Time = 1.25 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 11: Cost = 0_3165605, Time = 1.29 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 15: Cost = 0_3165231, Time = 1.31 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 16: Cost = 0_3134343, Time = 1.34 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 21: Cost = 0_3132394, Time = 1.36 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 24: Cost = 0_3130596, Time = 1.39 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 25: Cost = 0_3077274, Time = 1.42 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 27: Cost = 0_3076953, Time = 1.43 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 28: Cost = 0_3076919, Time = 1.43 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 29: Cost = 0_3073337, Time = 1.44 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 30: Cost = 0_3063404, Time = 1.50 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 36: Cost = 0_3032255, Time = 1.54 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 37: Cost = 0_3032246, Time = 1.54 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 39: Cost = 0_3031950, Time = 1.55 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 40: Cost = 0_3027555, Time = 1.63 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 42: Cost = 0_3026039, Time = 1.70 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 43: Cost = 0_3012125, Time = 1.82 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 44: Cost = 0_3012116, Time = 1.83 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 45: Cost = 0_2980544, Time = 1.86 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 50: Cost = 0_2979223, Time = 1.96 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 52: Cost = 0_2979132, Time = 2.02 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 59: Cost = 0_2978834, Time = 2.22 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 66: Cost = 0_2976950, Time = 2.74 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 69: Cost = 0_2976507, Time = 2.75 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 70: Cost = 0_2976407, Time = 2.75 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 72: Cost = 0_2962934, Time = 2.77 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 79: Cost = 0_2962277, Time = 2.90 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 81: Cost = 0_2959881, Time = 2.92 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 83: Cost = 0_2959573, Time = 2.94 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 84: Cost = 0_2951970, Time = 2.96 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 85: Cost = 0_2947018, Time = 2.98 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 86: Cost = 0_2939792, Time = 3.02 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 87: Cost = 0_2939277, Time = 3.04 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 88: Cost = 0_2939092, Time = 3.05 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 91: Cost = 0_2937480, Time = 3.08 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 93: Cost = 0_2911639, Time = 3.14 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 96: Cost = 0_2900262, Time = 3.34 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 98: Cost = 0_2899757, Time = 3.43 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 101: Cost = 0_2899715, Time = 3.49 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 103: Cost = 0_2895650, Time = 3.58 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 106: Cost = 0_2895434, Time = 3.91 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 108: Cost = 0_2890068, Time = 3.94 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 115: Cost = 0_2888376, Time = 3.99 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 116: Cost = 0_2881882, Time = 4.01 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 122: Cost = 0_2881877, Time = 4.31 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 124: Cost = 0_2881654, Time = 4.42 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 126: Cost = 0_2880639, Time = 4.55 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 128: Cost = 0_2879328, Time = 4.62 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 131: Cost = 0_2878638, Time = 4.75 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 132: Cost = 0_2878539, Time = 4.76 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 133: Cost = 0_2878278, Time = 4.77 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 135: Cost = 0_2873367, Time = 4.79 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 137: Cost = 0_2869582, Time = 4.84 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 138: Cost = 0_2869328, Time = 4.85 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 139: Cost = 0_2869181, Time = 4.87 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 141: Cost = 0_2861110, Time = 4.88 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 144: Cost = 0_2858449, Time = 5.00 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 145: Cost = 0_2858269, Time = 5.00 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 147: Cost = 0_2850207, Time = 5.09 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 151: Cost = 0_2850054, Time = 5.38 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 153: Cost = 0_2844933, Time = 5.50 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 154: Cost = 0_2843661, Time = 5.51 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 156: Cost = 0_2840707, Time = 5.52 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 162: Cost = 0_2839092, Time = 6.18 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 163: Cost = 0_2833752, Time = 6.25 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 166: Cost = 0_2833725, Time = 6.53 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 167: Cost = 0_2831652, Time = 6.55 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 168: Cost = 0_2829321, Time = 6.59 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 170: Cost = 0_2829008, Time = 6.65 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 172: Cost = 0_2828324, Time = 6.77 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 176: Cost = 0_2828315, Time = 6.88 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 181: Cost = 0_2828279, Time = 7.06 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 184: Cost = 0_2822939, Time = 7.07 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 193: Cost = 0_2820859, Time = 7.34 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 195: Cost = 0_2819371, Time = 7.38 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 202: Cost = 0_2819339, Time = 7.61 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 209: Cost = 0_2819141, Time = 7.70 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 224: Cost = 0_2818239, Time = 7.88 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 226: Cost = 0_2817862, Time = 7.90 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 232: Cost = 0_2817767, Time = 7.97 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 239: Cost = 0_2817308, Time = 8.08 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 242: Cost = 0_2817260, Time = 8.10 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 243: Cost = 0_2817192, Time = 8.11 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 247: Cost = 0_2815440, Time = 8.48 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 258: Cost = 0_2815230, Time = 9.07 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 261: Cost = 0_2810284, Time = 9.22 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 266: Cost = 0_2810170, Time = 9.28 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 269: Cost = 0_2809870, Time = 9.38 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 274: Cost = 0_2809577, Time = 9.48 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 276: Cost = 0_2806575, Time = 9.71 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 289: Cost = 0_2803053, Time = 10.43 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 299: Cost = 0_2803020, Time = 10.68 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 305: Cost = 0_2800882, Time = 10.72 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 313: Cost = 0_2798273, Time = 10.97 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 315: Cost = 0_2796494, Time = 11.06 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 320: Cost = 0_2795529, Time = 11.16 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 322: Cost = 0_2792924, Time = 11.49 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 325: Cost = 0_2792913, Time = 11.77 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 328: Cost = 0_2787805, Time = 11.84 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 334: Cost = 0_2786469, Time = 12.46 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 336: Cost = 0_2786055, Time = 12.51 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 339: Cost = 0_2784983, Time = 12.56 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 341: Cost = 0_2783512, Time = 12.74 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 351: Cost = 0_2783420, Time = 13.24 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 352: Cost = 0_2783329, Time = 13.25 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 355: Cost = 0_2782547, Time = 13.34 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 375: Cost = 0_2781244, Time = 13.92 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 378: Cost = 0_2780405, Time = 14.08 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 380: Cost = 0_2780401, Time = 14.44 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 387: Cost = 0_2780104, Time = 14.63 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 390: Cost = 0_2779285, Time = 14.89 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 396: Cost = 0_2779159, Time = 14.94 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 405: Cost = 0_2779115, Time = 15.19 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 406: Cost = 0_2779013, Time = 15.20 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 411: Cost = 0_2778791, Time = 15.50 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 431: Cost = 0_2778770, Time = 16.41 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 458: Cost = 0_2776074, Time = 17.97 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 474: Cost = 0_2772975, Time = 18.45 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 479: Cost = 0_2771277, Time = 18.58 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 480: Cost = 0_2768557, Time = 18.61 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 496: Cost = 0_2768524, Time = 18.80 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 501: Cost = 0_2767854, Time = 19.07 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 511: Cost = 0_2761263, Time = 19.28 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 524: Cost = 0_2760762, Time = 19.71 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 533: Cost = 0_2760115, Time = 20.24 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 539: Cost = 0_2759602, Time = 20.55 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 541: Cost = 0_2756240, Time = 20.57 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 553: Cost = 0_2754927, Time = 20.96 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 555: Cost = 0_2754438, Time = 20.98 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 560: Cost = 0_2754356, Time = 21.05 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 567: Cost = 0_2754176, Time = 21.43 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 574: Cost = 0_2754164, Time = 21.54 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 579: Cost = 0_2753926, Time = 21.63 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 589: Cost = 0_2751686, Time = 22.20 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 600: Cost = 0_2750458, Time = 22.26 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 606: Cost = 0_2749896, Time = 22.36 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 623: Cost = 0_2749639, Time = 23.10 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 640: Cost = 0_2749633, Time = 23.33 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 650: Cost = 0_2749562, Time = 23.62 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 666: Cost = 0_2748717, Time = 23.96 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 700: Cost = 0_2748354, Time = 24.84 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 704: Cost = 0_2748097, Time = 24.90 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 721: Cost = 0_2747933, Time = 25.77 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 768: Cost = 0_2746786, Time = 27.42 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 769: Cost = 0_2746643, Time = 27.44 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 860: Cost = 0_2745680, Time = 30.64 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 895: Cost = 0_2745367, Time = 32.33 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 917: Cost = 0_2741471, Time = 33.17 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 919: Cost = 0_2741407, Time = 33.19 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 920: Cost = 0_2740598, Time = 33.21 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 927: Cost = 0_2739540, Time = 33.30 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 940: Cost = 0_2739524, Time = 33.50 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 980: Cost = 0_2739405, Time = 34.70 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 985: Cost = 0_2737900, Time = 34.76 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 1011: Cost = 0_2737738, Time = 35.84 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 1016: Cost = 0_2736367, Time = 36.05 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 1025: Cost = 0_2736340, Time = 36.37 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 1085: Cost = 0_2736012, Time = 38.91 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 1100: Cost = 0_2734579, Time = 39.34 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 1162: Cost = 0_2734571, Time = 41.29 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 1179: Cost = 0_2734496, Time = 41.76 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 1207: Cost = 0_2734451, Time = 42.30 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 1210: Cost = 0_2733835, Time = 42.34 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 1223: Cost = 0_2733802, Time = 42.76 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 1226: Cost = 0_2731309, Time = 42.86 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 1234: Cost = 0_2731146, Time = 43.23 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 1237: Cost = 0_2731091, Time = 43.25 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 1243: Cost = 0_2731071, Time = 43.51 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 1254: Cost = 0_2730868, Time = 44.63 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 1269: Cost = 0_2730069, Time = 45.12 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 1282: Cost = 0_2729997, Time = 45.50 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 1283: Cost = 0_2729951, Time = 45.51 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 1287: Cost = 0_2729459, Time = 45.84 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 1311: Cost = 0_2728121, Time = 46.71 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 1324: Cost = 0_2726852, Time = 47.34 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 1329: Cost = 0_2726793, Time = 47.60 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 1330: Cost = 0_2726768, Time = 47.60 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 1343: Cost = 0_2726757, Time = 48.25 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 1346: Cost = 0_2726510, Time = 48.33 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 1353: Cost = 0_2726001, Time = 48.47 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 1362: Cost = 0_2718657, Time = 48.86 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 1365: Cost = 0_2717215, Time = 49.04 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 1381: Cost = 0_2717191, Time = 49.36 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 1382: Cost = 0_2717154, Time = 49.38 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 1406: Cost = 0_2717020, Time = 50.71 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 1418: Cost = 0_2717006, Time = 50.96 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 1423: Cost = 0_2716743, Time = 50.98 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 1426: Cost = 0_2715685, Time = 51.09 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 1433: Cost = 0_2715365, Time = 51.15 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 1438: Cost = 0_2715314, Time = 51.21 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 1444: Cost = 0_2715254, Time = 51.47 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 1475: Cost = 0_2715050, Time = 53.02 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 1479: Cost = 0_2714939, Time = 53.31 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 1495: Cost = 0_2714680, Time = 53.82 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 1498: Cost = 0_2714563, Time = 53.91 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 1500: Cost = 0_2713848, Time = 54.03 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 1506: Cost = 0_2711692, Time = 54.09 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 1549: Cost = 0_2711165, Time = 55.73 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 1562: Cost = 0_2711014, Time = 56.49 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 1564: Cost = 0_2710962, Time = 56.52 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 1569: Cost = 0_2710896, Time = 56.56 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 1573: Cost = 0_2710707, Time = 56.66 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 1598: Cost = 0_2710685, Time = 58.13 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 1611: Cost = 0_2710650, Time = 58.48 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 1615: Cost = 0_2710459, Time = 58.69 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 1626: Cost = 0_2709817, Time = 59.46 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 1645: Cost = 0_2709749, Time = 60.05 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 1648: Cost = 0_2709281, Time = 60.13 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 1663: Cost = 0_2708980, Time = 61.20 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 1666: Cost = 0_2708814, Time = 61.27 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 1672: Cost = 0_2708657, Time = 61.42 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 1673: Cost = 0_2708575, Time = 61.45 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 1704: Cost = 0_2708526, Time = 63.03 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 1760: Cost = 0_2708166, Time = 65.83 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 1761: Cost = 0_2707021, Time = 65.83 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 1816: Cost = 0_2707014, Time = 68.64 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 1883: Cost = 0_2705841, Time = 70.90 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 1909: Cost = 0_2705444, Time = 71.68 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 1926: Cost = 0_2705228, Time = 71.90 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 1954: Cost = 0_2704996, Time = 73.03 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 1986: Cost = 0_2704943, Time = 73.93 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 2041: Cost = 0_2704932, Time = 75.68 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 2058: Cost = 0_2704871, Time = 76.22 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 2121: Cost = 0_2704553, Time = 78.45 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 2123: Cost = 0_2704543, Time = 78.49 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 2149: Cost = 0_2704542, Time = 78.92 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 2210: Cost = 0_2704248, Time = 82.06 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 2214: Cost = 0_2704232, Time = 82.09 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 2237: Cost = 0_2703997, Time = 83.09 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 2239: Cost = 0_2703986, Time = 83.24 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 2301: Cost = 0_2703603, Time = 84.91 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 2305: Cost = 0_2703559, Time = 84.99 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 2322: Cost = 0_2701813, Time = 85.63 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 2457: Cost = 0_2696338, Time = 90.89 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 2465: Cost = 0_2691108, Time = 91.23 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 2469: Cost = 0_2691074, Time = 91.28 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 2474: Cost = 0_2691048, Time = 91.33 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 2510: Cost = 0_2690814, Time = 93.25 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 2525: Cost = 0_2690799, Time = 94.47 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 2539: Cost = 0_2690671, Time = 95.23 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 2548: Cost = 0_2690558, Time = 95.45 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 2556: Cost = 0_2690536, Time = 95.79 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 2560: Cost = 0_2690251, Time = 95.85 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 2566: Cost = 0_2690231, Time = 95.93 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 2586: Cost = 0_2689890, Time = 96.82 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 2587: Cost = 0_2688696, Time = 96.90 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 2610: Cost = 0_2688619, Time = 97.73 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 2662: Cost = 0_2688241, Time = 100.45 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 2698: Cost = 0_2688238, Time = 100.96 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 2701: Cost = 0_2688015, Time = 101.01 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 2704: Cost = 0_2687985, Time = 101.18 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 2710: Cost = 0_2687983, Time = 101.27 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 2719: Cost = 0_2687629, Time = 101.55 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 2728: Cost = 0_2687602, Time = 102.01 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 2734: Cost = 0_2687599, Time = 102.26 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 2745: Cost = 0_2687528, Time = 102.60 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 2754: Cost = 0_2687518, Time = 102.95 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 2763: Cost = 0_2687506, Time = 103.00 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 2781: Cost = 0_2687472, Time = 103.44 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 2784: Cost = 0_2687368, Time = 103.59 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 2791: Cost = 0_2687256, Time = 104.01 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 2798: Cost = 0_2687107, Time = 104.16 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 2837: Cost = 0_2687095, Time = 105.98 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 2887: Cost = 0_2687069, Time = 107.09 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 2916: Cost = 0_2686925, Time = 109.12 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 2946: Cost = 0_2686568, Time = 110.47 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 2978: Cost = 0_2686456, Time = 111.88 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 2994: Cost = 0_2686408, Time = 112.63 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 3001: Cost = 0_2686325, Time = 113.53 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 3002: Cost = 0_2686272, Time = 113.58 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 3018: Cost = 0_2686024, Time = 114.34 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 3051: Cost = 0_2685945, Time = 115.01 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 3066: Cost = 0_2685891, Time = 115.51 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 3070: Cost = 0_2685516, Time = 115.58 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 3100: Cost = 0_2685149, Time = 117.27 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 3144: Cost = 0_2685117, Time = 119.01 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 3146: Cost = 0_2685018, Time = 119.19 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 3154: Cost = 0_2685011, Time = 119.73 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 3171: Cost = 0_2684866, Time = 120.23 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 3172: Cost = 0_2684673, Time = 120.25 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 3187: Cost = 0_2684667, Time = 120.66 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 3209: Cost = 0_2684568, Time = 122.08 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 3211: Cost = 0_2684355, Time = 122.32 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 3212: Cost = 0_2684296, Time = 122.34 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 3225: Cost = 0_2684274, Time = 122.55 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 3286: Cost = 0_2683331, Time = 125.09 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 3298: Cost = 0_2683328, Time = 125.34 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 3329: Cost = 0_2682218, Time = 126.27 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 3339: Cost = 0_2682217, Time = 126.66 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 3342: Cost = 0_2682213, Time = 126.77 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 3343: Cost = 0_2682114, Time = 126.81 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 3383: Cost = 0_2682054, Time = 127.97 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 3389: Cost = 0_2681822, Time = 128.08 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 3405: Cost = 0_2681463, Time = 128.87 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 3434: Cost = 0_2679411, Time = 129.75 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 3446: Cost = 0_2679115, Time = 130.05 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 3487: Cost = 0_2679075, Time = 131.80 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 3542: Cost = 0_2679074, Time = 133.84 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 3795: Cost = 0_2679073, Time = 143.43 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 3903: Cost = 0_2678784, Time = 146.89 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 3922: Cost = 0_2678775, Time = 147.50 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 3939: Cost = 0_2678746, Time = 148.52 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 3951: Cost = 0_2678721, Time = 148.97 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 3959: Cost = 0_2678703, Time = 149.15 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 4003: Cost = 0_2678576, Time = 150.74 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 4031: Cost = 0_2678528, Time = 152.24 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 4132: Cost = 0_2678464, Time = 155.98 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 4242: Cost = 0_2678444, Time = 159.73 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 4251: Cost = 0_2678367, Time = 159.95 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 4256: Cost = 0_2678345, Time = 160.19 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 4334: Cost = 0_2678265, Time = 163.57 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 4467: Cost = 0_2678259, Time = 168.83 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 4757: Cost = 0_2678246, Time = 179.19 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 4885: Cost = 0_2678156, Time = 184.23 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 4904: Cost = 0_2678111, Time = 185.20 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 4933: Cost = 0_2678110, Time = 186.36 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 4993: Cost = 0_2678019, Time = 188.61 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 5167: Cost = 0_2677435, Time = 197.21 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 5334: Cost = 0_2677216, Time = 202.92 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 5492: Cost = 0_2676586, Time = 208.76 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 5594: Cost = 0_2676098, Time = 213.48 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 5661: Cost = 0_2676060, Time = 215.37 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 5706: Cost = 0_2675639, Time = 217.08 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 5710: Cost = 0_2675590, Time = 217.13 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 5791: Cost = 0_2675503, Time = 220.56 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 5887: Cost = 0_2675444, Time = 226.00 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 5893: Cost = 0_2675390, Time = 226.23 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 6137: Cost = 0_2675266, Time = 237.21 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 6159: Cost = 0_2675149, Time = 238.06 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 6458: Cost = 0_2671623, Time = 249.84 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 6463: Cost = 0_2671505, Time = 249.90 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 6476: Cost = 0_2671500, Time = 250.30 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 6478: Cost = 0_2671392, Time = 250.32 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 6498: Cost = 0_2671389, Time = 251.52 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 6504: Cost = 0_2671008, Time = 251.70 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 6832: Cost = 0_2670727, Time = 264.90 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 6865: Cost = 0_2670699, Time = 266.26 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 6928: Cost = 0_2669281, Time = 268.88 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 7180: Cost = 0_2667994, Time = 278.82 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 7203: Cost = 0_2667841, Time = 279.95 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 7252: Cost = 0_2667722, Time = 281.65 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 7331: Cost = 0_2667292, Time = 284.03 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 7483: Cost = 0_2666051, Time = 289.46 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 7490: Cost = 0_2665875, Time = 289.81 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 7579: Cost = 0_2665724, Time = 293.75 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 7635: Cost = 0_2665222, Time = 296.72 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 7744: Cost = 0_2665209, Time = 300.39 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 8087: Cost = 0_2665208, Time = 314.28 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 8292: Cost = 0_2665147, Time = 322.07 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 8534: Cost = 0_2665082, Time = 330.30 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 8555: Cost = 0_2665003, Time = 331.76 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 8819: Cost = 0_2664804, Time = 342.22 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 8873: Cost = 0_2664318, Time = 344.07 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 8898: Cost = 0_2663554, Time = 345.40 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 9152: Cost = 0_2663241, Time = 355.17 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 9226: Cost = 0_2663201, Time = 359.43 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 9229: Cost = 0_2663190, Time = 359.47 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 9232: Cost = 0_2663028, Time = 359.49 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 9240: Cost = 0_2662981, Time = 359.91 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 9254: Cost = 0_2662906, Time = 360.25 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 9272: Cost = 0_2662776, Time = 361.29 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 9460: Cost = 0_2662718, Time = 368.76 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 9463: Cost = 0_2662717, Time = 368.83 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 9496: Cost = 0_2662711, Time = 370.82 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 9521: Cost = 0_2662373, Time = 371.49 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 9531: Cost = 0_2662362, Time = 371.82 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 9543: Cost = 0_2662256, Time = 372.53 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 9560: Cost = 0_2660952, Time = 373.12 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 9598: Cost = 0_2660666, Time = 374.73 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 9625: Cost = 0_2660588, Time = 375.42 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 9626: Cost = 0_2660316, Time = 375.44 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+* 9986: Cost = 0_2660249, Time = 388.30 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-D-n901/Vrp-Set-D-n901-lkh/0.lkh1.tour" ... done
+Population:
+  1: 0_2660249
+Run 1: Cost = 0_2660249, Time = 388.88 sec. 
+
+Successes/Runs = 0/1 
+Cost.min = 2660249, Cost.avg = 2660249.00, Cost.max = 2660249
+Gap.min = 0.0000%, Gap.avg = 0.0000%, Gap.max = 0.0000%
+Penalty.min = 0, Penalty.avg = 0.00, Penalty.max = 0
+Trials.min = 10000, Trials.avg = 10000.0, Trials.max = 10000
+Time.min = 388.88 sec., Time.avg = 388.88 sec., Time.max = 388.88 sec.
+Time.total = 389.71 sec.
+  Size.min = 15, Size.max = 28, Penalty = 0
+  Cost.min = 8006, Cost.max = 161417, Cost.sum = 2660249
+Best CVRP solution:
+  Cost = 0_2660249
+

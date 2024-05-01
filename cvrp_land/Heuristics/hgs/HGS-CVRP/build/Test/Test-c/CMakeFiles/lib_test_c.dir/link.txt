@@ -1,0 +1,1 @@
+/usr/bin/cc -O3 -DNDEBUG   CMakeFiles/lib_test_c.dir/test.c.o  -o lib_test_c  -Wl,-rpath,/home/xunj/GradWork/Omni-VRP-main/POMO/CVRP/hgs/HGS-CVRP-2.0.0/build -lm ../../libhgscvrp.so 

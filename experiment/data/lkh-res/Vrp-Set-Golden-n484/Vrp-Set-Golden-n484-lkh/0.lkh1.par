@@ -1,0 +1,7 @@
+SPECIAL
+MAX_TRIALS = 10000
+RUNS = 1
+TRACE_LEVEL = 1
+SEED = 1234
+PROBLEM_FILE = baseline_results/cvrp_lkh/Vrp-Set-Golden-n484/Vrp-Set-Golden-n484-lkh/0.lkh1.vrp
+OUTPUT_TOUR_FILE = baseline_results/cvrp_lkh/Vrp-Set-Golden-n484/Vrp-Set-Golden-n484-lkh/0.lkh1.tour

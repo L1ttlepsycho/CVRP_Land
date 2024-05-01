@@ -1,0 +1,125 @@
+PARAMETER_FILE = baseline_results/cvrp_lkh/Vrp-Set-A-n64/Vrp-Set-A-n64-lkh/0.lkh1.par
+Reading PROBLEM_FILE: "baseline_results/cvrp_lkh/Vrp-Set-A-n64/Vrp-Set-A-n64-lkh/0.lkh1.vrp" ... done
+ASCENT_CANDIDATES = 50
+BACKBONE_TRIALS = 0
+BACKTRACKING = NO
+# BWTSP =
+# CANDIDATE_FILE =
+CANDIDATE_SET_TYPE = ALPHA
+# DISTANCE =
+DEPOT = 1
+# EDGE_FILE =
+EXCESS = 0.015625
+EXTERNAL_SALESMEN = 0
+EXTRA_CANDIDATES = 0 
+EXTRA_CANDIDATE_SET_TYPE = QUADRANT
+GAIN23 = NO
+GAIN_CRITERION = YES
+INITIAL_PERIOD = 100
+INITIAL_STEP_SIZE = 1
+INITIAL_TOUR_ALGORITHM = WALK
+# INITIAL_TOUR_FILE = 
+INITIAL_TOUR_FRACTION = 1.000
+# INPUT_TOUR_FILE = 
+KICK_TYPE = 4
+KICKS = 1
+# MAX_BREADTH =
+MAKESPAN = NO
+MAX_CANDIDATES = 5 
+MAX_SWAPS = 0
+MAX_TRIALS = 10000
+# MERGE_TOUR_FILE =
+MOVE_TYPE = 5 SPECIAL
+MTSP_MIN_SIZE = 1
+MTSP_MAX_SIZE = 63
+# MTSP_SOLUTION_FILE = 
+# NONSEQUENTIAL_MOVE_TYPE = 5
+# OPTIMUM =
+OUTPUT_TOUR_FILE = baseline_results/cvrp_lkh/Vrp-Set-A-n64/Vrp-Set-A-n64-lkh/0.lkh1.tour
+PATCHING_A = 1 
+PATCHING_C = 0 
+# PI_FILE = 
+POPMUSIC_INITIAL_TOUR = NO
+POPMUSIC_MAX_NEIGHBORS = 5
+POPMUSIC_SAMPLE_SIZE = 10
+POPMUSIC_SOLUTIONS = 50
+POPMUSIC_TRIALS = 1
+POPULATION_SIZE = 10
+PRECISION = 100
+PROBLEM_FILE = baseline_results/cvrp_lkh/Vrp-Set-A-n64/Vrp-Set-A-n64-lkh/0.lkh1.vrp
+RECOMBINATION = IPT
+RESTRICTED_SEARCH = YES
+RUNS = 1
+SALESMEN = 9
+SCALE = 1
+SEED = 1234
+# SINTEF_SOLUTION_FILE = 
+STOP_AT_OPTIMUM = YES
+SUBGRADIENT = YES
+# SUBPROBLEM_SIZE =
+# SUBPROBLEM_TOUR_FILE = 
+SUBSEQUENT_MOVE_TYPE = 5 SPECIAL
+SUBSEQUENT_PATCHING = YES
+# TIME_LIMIT =
+# TOTAL_TIME_LIMIT =
+# TOUR_FILE = 
+TRACE_LEVEL = 1
+VEHICLES = 9
+
+Lower bound = 92632.9, Ascent time = 0.01 sec.
+Cand.min = 5, Cand.avg = 5.0, Cand.max = 5
+Preprocessing time = 0.01 sec.
+* 1: Cost = 0_145360, Time = 0.01 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-A-n64/Vrp-Set-A-n64-lkh/0.lkh1.tour" ... done
+* 5: Cost = 0_145098, Time = 0.03 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-A-n64/Vrp-Set-A-n64-lkh/0.lkh1.tour" ... done
+* 9: Cost = 0_144880, Time = 0.04 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-A-n64/Vrp-Set-A-n64-lkh/0.lkh1.tour" ... done
+* 12: Cost = 0_143992, Time = 0.06 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-A-n64/Vrp-Set-A-n64-lkh/0.lkh1.tour" ... done
+* 22: Cost = 0_143809, Time = 0.11 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-A-n64/Vrp-Set-A-n64-lkh/0.lkh1.tour" ... done
+* 34: Cost = 0_143106, Time = 0.16 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-A-n64/Vrp-Set-A-n64-lkh/0.lkh1.tour" ... done
+* 38: Cost = 0_143103, Time = 0.17 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-A-n64/Vrp-Set-A-n64-lkh/0.lkh1.tour" ... done
+* 39: Cost = 0_143077, Time = 0.18 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-A-n64/Vrp-Set-A-n64-lkh/0.lkh1.tour" ... done
+* 48: Cost = 0_142935, Time = 0.23 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-A-n64/Vrp-Set-A-n64-lkh/0.lkh1.tour" ... done
+* 62: Cost = 0_142389, Time = 0.29 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-A-n64/Vrp-Set-A-n64-lkh/0.lkh1.tour" ... done
+* 64: Cost = 0_142375, Time = 0.31 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-A-n64/Vrp-Set-A-n64-lkh/0.lkh1.tour" ... done
+* 76: Cost = 0_142062, Time = 0.34 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-A-n64/Vrp-Set-A-n64-lkh/0.lkh1.tour" ... done
+* 103: Cost = 0_141681, Time = 0.46 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-A-n64/Vrp-Set-A-n64-lkh/0.lkh1.tour" ... done
+* 201: Cost = 0_141675, Time = 0.94 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-A-n64/Vrp-Set-A-n64-lkh/0.lkh1.tour" ... done
+* 225: Cost = 0_141595, Time = 1.07 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-A-n64/Vrp-Set-A-n64-lkh/0.lkh1.tour" ... done
+* 553: Cost = 0_141378, Time = 2.83 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-A-n64/Vrp-Set-A-n64-lkh/0.lkh1.tour" ... done
+* 710: Cost = 0_141088, Time = 3.72 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-A-n64/Vrp-Set-A-n64-lkh/0.lkh1.tour" ... done
+* 905: Cost = 0_140961, Time = 5.03 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-A-n64/Vrp-Set-A-n64-lkh/0.lkh1.tour" ... done
+* 1498: Cost = 0_140773, Time = 8.19 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-A-n64/Vrp-Set-A-n64-lkh/0.lkh1.tour" ... done
+Population:
+  1: 0_140773
+Run 1: Cost = 0_140773, Time = 62.38 sec. 
+
+Successes/Runs = 0/1 
+Cost.min = 140773, Cost.avg = 140773.00, Cost.max = 140773
+Gap.min = 0.0000%, Gap.avg = 0.0000%, Gap.max = 0.0000%
+Penalty.min = 0, Penalty.avg = 0.00, Penalty.max = 0
+Trials.min = 10000, Trials.avg = 10000.0, Trials.max = 10000
+Time.min = 62.38 sec., Time.avg = 62.38 sec., Time.max = 62.38 sec.
+Time.total = 62.39 sec.
+  Size.min = 3, Size.max = 12, Penalty = 0
+  Cost.min = 4649, Cost.max = 25768, Cost.sum = 140773
+Best CVRP solution:
+  Cost = 0_140773
+

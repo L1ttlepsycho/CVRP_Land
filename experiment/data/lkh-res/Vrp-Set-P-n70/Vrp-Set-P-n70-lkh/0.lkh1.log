@@ -1,0 +1,117 @@
+PARAMETER_FILE = baseline_results/cvrp_lkh/Vrp-Set-P-n70/Vrp-Set-P-n70-lkh/0.lkh1.par
+Reading PROBLEM_FILE: "baseline_results/cvrp_lkh/Vrp-Set-P-n70/Vrp-Set-P-n70-lkh/0.lkh1.vrp" ... done
+ASCENT_CANDIDATES = 50
+BACKBONE_TRIALS = 0
+BACKTRACKING = NO
+# BWTSP =
+# CANDIDATE_FILE =
+CANDIDATE_SET_TYPE = ALPHA
+# DISTANCE =
+DEPOT = 1
+# EDGE_FILE =
+EXCESS = 0.0142857
+EXTERNAL_SALESMEN = 0
+EXTRA_CANDIDATES = 0 
+EXTRA_CANDIDATE_SET_TYPE = QUADRANT
+GAIN23 = NO
+GAIN_CRITERION = YES
+INITIAL_PERIOD = 100
+INITIAL_STEP_SIZE = 1
+INITIAL_TOUR_ALGORITHM = WALK
+# INITIAL_TOUR_FILE = 
+INITIAL_TOUR_FRACTION = 1.000
+# INPUT_TOUR_FILE = 
+KICK_TYPE = 4
+KICKS = 1
+# MAX_BREADTH =
+MAKESPAN = NO
+MAX_CANDIDATES = 5 
+MAX_SWAPS = 0
+MAX_TRIALS = 10000
+# MERGE_TOUR_FILE =
+MOVE_TYPE = 5 SPECIAL
+MTSP_MIN_SIZE = 1
+MTSP_MAX_SIZE = 69
+# MTSP_SOLUTION_FILE = 
+# NONSEQUENTIAL_MOVE_TYPE = 5
+# OPTIMUM =
+OUTPUT_TOUR_FILE = baseline_results/cvrp_lkh/Vrp-Set-P-n70/Vrp-Set-P-n70-lkh/0.lkh1.tour
+PATCHING_A = 1 
+PATCHING_C = 0 
+# PI_FILE = 
+POPMUSIC_INITIAL_TOUR = NO
+POPMUSIC_MAX_NEIGHBORS = 5
+POPMUSIC_SAMPLE_SIZE = 10
+POPMUSIC_SOLUTIONS = 50
+POPMUSIC_TRIALS = 1
+POPULATION_SIZE = 10
+PRECISION = 100
+PROBLEM_FILE = baseline_results/cvrp_lkh/Vrp-Set-P-n70/Vrp-Set-P-n70-lkh/0.lkh1.vrp
+RECOMBINATION = IPT
+RESTRICTED_SEARCH = YES
+RUNS = 1
+SALESMEN = 10
+SCALE = 1
+SEED = 1234
+# SINTEF_SOLUTION_FILE = 
+STOP_AT_OPTIMUM = YES
+SUBGRADIENT = YES
+# SUBPROBLEM_SIZE =
+# SUBPROBLEM_TOUR_FILE = 
+SUBSEQUENT_MOVE_TYPE = 5 SPECIAL
+SUBSEQUENT_PATCHING = YES
+# TIME_LIMIT =
+# TOTAL_TIME_LIMIT =
+# TOUR_FILE = 
+TRACE_LEVEL = 1
+VEHICLES = 10
+
+Lower bound = 64512.7, Ascent time = 0.01 sec.
+Cand.min = 5, Cand.avg = 5.0, Cand.max = 5
+Preprocessing time = 0.01 sec.
+* 1: Cost = 0_90924, Time = 0.01 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-P-n70/Vrp-Set-P-n70-lkh/0.lkh1.tour" ... done
+* 5: Cost = 0_88847, Time = 0.03 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-P-n70/Vrp-Set-P-n70-lkh/0.lkh1.tour" ... done
+* 6: Cost = 0_88112, Time = 0.04 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-P-n70/Vrp-Set-P-n70-lkh/0.lkh1.tour" ... done
+* 15: Cost = 0_88008, Time = 0.09 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-P-n70/Vrp-Set-P-n70-lkh/0.lkh1.tour" ... done
+* 18: Cost = 0_87687, Time = 0.10 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-P-n70/Vrp-Set-P-n70-lkh/0.lkh1.tour" ... done
+* 21: Cost = 0_87231, Time = 0.12 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-P-n70/Vrp-Set-P-n70-lkh/0.lkh1.tour" ... done
+* 25: Cost = 0_86898, Time = 0.14 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-P-n70/Vrp-Set-P-n70-lkh/0.lkh1.tour" ... done
+* 26: Cost = 0_86372, Time = 0.15 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-P-n70/Vrp-Set-P-n70-lkh/0.lkh1.tour" ... done
+* 30: Cost = 0_86244, Time = 0.18 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-P-n70/Vrp-Set-P-n70-lkh/0.lkh1.tour" ... done
+* 35: Cost = 0_84843, Time = 0.21 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-P-n70/Vrp-Set-P-n70-lkh/0.lkh1.tour" ... done
+* 36: Cost = 0_84770, Time = 0.21 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-P-n70/Vrp-Set-P-n70-lkh/0.lkh1.tour" ... done
+* 41: Cost = 0_84684, Time = 0.22 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-P-n70/Vrp-Set-P-n70-lkh/0.lkh1.tour" ... done
+* 146: Cost = 0_84459, Time = 0.59 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-P-n70/Vrp-Set-P-n70-lkh/0.lkh1.tour" ... done
+* 169: Cost = 0_83574, Time = 0.71 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-P-n70/Vrp-Set-P-n70-lkh/0.lkh1.tour" ... done
+* 3960: Cost = 0_83271, Time = 16.32 sec. 
+Writing OUTPUT_TOUR_FILE: "baseline_results/cvrp_lkh/Vrp-Set-P-n70/Vrp-Set-P-n70-lkh/0.lkh1.tour" ... done
+Population:
+  1: 0_83271
+Run 1: Cost = 0_83271, Time = 44.01 sec. 
+
+Successes/Runs = 0/1 
+Cost.min = 83271, Cost.avg = 83271.00, Cost.max = 83271
+Gap.min = 0.0000%, Gap.avg = 0.0000%, Gap.max = 0.0000%
+Penalty.min = 0, Penalty.avg = 0.00, Penalty.max = 0
+Trials.min = 10000, Trials.avg = 10000.0, Trials.max = 10000
+Time.min = 44.01 sec., Time.avg = 44.01 sec., Time.max = 44.01 sec.
+Time.total = 44.02 sec.
+  Size.min = 5, Size.max = 9, Penalty = 0
+  Cost.min = 4190, Cost.max = 11697, Cost.sum = 83271
+Best CVRP solution:
+  Cost = 0_83271
+

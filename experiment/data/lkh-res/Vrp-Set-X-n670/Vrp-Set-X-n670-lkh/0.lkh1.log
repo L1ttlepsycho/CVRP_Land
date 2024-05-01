@@ -1,0 +1,598 @@
+PARAMETER_FILE = baseline_results/cvrp_lkh/Vrp-Set-X-n670/Vrp-Set-X-n670-lkh/0.lkh1.par
+Reading PROBLEM_FILE: "baseline_results/cvrp_lkh/Vrp-Set-X-n670/Vrp-Set-X-n670-lkh/0.lkh1.vrp" ... done
+ASCENT_CANDIDATES = 50
+BACKBONE_TRIALS = 0
+BACKTRACKING = NO
+# BWTSP =
+# CANDIDATE_FILE =
+CANDIDATE_SET_TYPE = ALPHA
+# DISTANCE =
+DEPOT = 1
+# EDGE_FILE =
+EXCESS = 0.00149254
+EXTERNAL_SALESMEN = 0
+EXTRA_CANDIDATES = 0 
+EXTRA_CANDIDATE_SET_TYPE = QUADRANT
+GAIN23 = NO
+GAIN_CRITERION = YES
+INITIAL_PERIOD = 335
+INITIAL_STEP_SIZE = 1
+INITIAL_TOUR_ALGORITHM = WALK
+# INITIAL_TOUR_FILE = 
+INITIAL_TOUR_FRACTION = 1.000
+# INPUT_TOUR_FILE = 
+KICK_TYPE = 4
+KICKS = 1
+# MAX_BREADTH =
+MAKESPAN = NO
+MAX_CANDIDATES = 5 
+MAX_SWAPS = 0
+MAX_TRIALS = 10000
+# MERGE_TOUR_FILE =
+MOVE_TYPE = 5 SPECIAL
+MTSP_MIN_SIZE = 1
+MTSP_MAX_SIZE = 669
+# MTSP_SOLUTION_FILE = 
+# NONSEQUENTIAL_MOVE_TYPE = 5
+# OPTIMUM =
+OUTPUT_TOUR_FILE = baseline_results/cvrp_lkh/Vrp-Set-X-n670/Vrp-Set-X-n670-lkh/0.lkh1.tour
+PATCHING_A = 1 
+PATCHING_C = 0 
+# PI_FILE = 
+POPMUSIC_INITIAL_TOUR = NO
+POPMUSIC_MAX_NEIGHBORS = 5
+POPMUSIC_SAMPLE_SIZE = 10
+POPMUSIC_SOLUTIONS = 50
+POPMUSIC_TRIALS = 1
+POPULATION_SIZE = 10
+PRECISION = 100
+PROBLEM_FILE = baseline_results/cvrp_lkh/Vrp-Set-X-n670/Vrp-Set-X-n670-lkh/0.lkh1.vrp
+RECOMBINATION = IPT
+RESTRICTED_SEARCH = YES
+RUNS = 1
+SALESMEN = 126
+SCALE = 1
+SEED = 1234
+# SINTEF_SOLUTION_FILE = 
+STOP_AT_OPTIMUM = YES
+SUBGRADIENT = YES
+# SUBPROBLEM_SIZE =
+# SUBPROBLEM_TOUR_FILE = 
+SUBSEQUENT_MOVE_TYPE = 5 SPECIAL
+SUBSEQUENT_PATCHING = YES
+# TIME_LIMIT =
+# TOTAL_TIME_LIMIT =
+# TOUR_FILE = 
+TRACE_LEVEL = 1
+VEHICLES = 126
+
+Lower bound = 6204131.7, Ascent time = 0.47 sec.
+Cand.min = 2, Cand.avg = 5.0, Cand.max = 5
+Preprocessing time = 0.48 sec.
+* 1: Cost = 135_17217370, Time = 3.46 sec. 
+* 3: Cost = 128_17404571, Time = 4.02 sec. 
+* 5: Cost = 127_17429684, Time = 4.21 sec. 
+* 6: Cost = 127_17366096, Time = 4.93 sec. 
+* 8: Cost = 119_17192451, Time = 6.08 sec. 
+* 9: Cost = 118_17177939, Time = 6.49 sec. 
+* 12: Cost = 115_17037602, Time = 6.85 sec. 
+* 13: Cost = 81_16930067, Time = 8.87 sec. 
+* 16: Cost = 81_16870894, Time = 9.84 sec. 
+* 17: Cost = 81_16716966, Time = 10.11 sec. 
+* 18: Cost = 80_16601777, Time = 10.52 sec. 
+* 19: Cost = 80_16583117, Time = 10.59 sec. 
+* 23: Cost = 80_16565666, Time = 11.92 sec. 
+* 24: Cost = 75_16491322, Time = 12.18 sec. 
+* 25: Cost = 75_16478715, Time = 12.24 sec. 
+* 26: Cost = 73_16495762, Time = 12.50 sec. 
+* 27: Cost = 73_16410353, Time = 12.69 sec. 
+* 30: Cost = 71_16382752, Time = 14.28 sec. 
+* 31: Cost = 71_16375252, Time = 14.34 sec. 
+* 32: Cost = 64_16297280, Time = 15.29 sec. 
+* 34: Cost = 64_16282010, Time = 16.32 sec. 
+* 36: Cost = 64_16281912, Time = 16.85 sec. 
+* 37: Cost = 63_16327926, Time = 16.90 sec. 
+* 38: Cost = 63_16322004, Time = 17.03 sec. 
+* 44: Cost = 61_16234394, Time = 19.25 sec. 
+* 45: Cost = 61_16233515, Time = 19.32 sec. 
+* 46: Cost = 61_16170634, Time = 19.64 sec. 
+* 48: Cost = 61_16165281, Time = 19.92 sec. 
+* 52: Cost = 61_16153173, Time = 20.59 sec. 
+* 53: Cost = 61_16130936, Time = 20.78 sec. 
+* 55: Cost = 61_16130461, Time = 20.83 sec. 
+* 56: Cost = 61_16098910, Time = 21.17 sec. 
+* 57: Cost = 61_16091438, Time = 21.29 sec. 
+* 58: Cost = 61_16088484, Time = 21.36 sec. 
+* 59: Cost = 61_16082490, Time = 21.46 sec. 
+* 60: Cost = 60_16094463, Time = 21.98 sec. 
+* 62: Cost = 59_16116579, Time = 22.19 sec. 
+* 63: Cost = 55_16246930, Time = 22.96 sec. 
+* 65: Cost = 52_16159703, Time = 23.29 sec. 
+* 72: Cost = 51_16298176, Time = 27.12 sec. 
+* 74: Cost = 51_16191637, Time = 27.59 sec. 
+* 75: Cost = 51_16180397, Time = 27.94 sec. 
+* 77: Cost = 50_16395105, Time = 30.78 sec. 
+* 78: Cost = 50_16394574, Time = 30.89 sec. 
+* 79: Cost = 47_16519074, Time = 31.25 sec. 
+* 82: Cost = 46_16627988, Time = 32.69 sec. 
+* 85: Cost = 45_16541831, Time = 34.18 sec. 
+* 88: Cost = 45_16523626, Time = 34.80 sec. 
+* 93: Cost = 45_16504128, Time = 35.27 sec. 
+* 95: Cost = 45_16473298, Time = 35.81 sec. 
+* 97: Cost = 45_16452051, Time = 36.00 sec. 
+* 99: Cost = 45_16425591, Time = 36.06 sec. 
+* 100: Cost = 45_16393645, Time = 36.17 sec. 
+* 101: Cost = 45_16336776, Time = 36.51 sec. 
+* 102: Cost = 45_16332383, Time = 36.62 sec. 
+* 104: Cost = 45_16315496, Time = 37.71 sec. 
+* 108: Cost = 42_16540943, Time = 41.88 sec. 
+* 110: Cost = 42_16538189, Time = 42.18 sec. 
+* 112: Cost = 42_16524809, Time = 43.05 sec. 
+* 115: Cost = 42_16397761, Time = 45.73 sec. 
+* 117: Cost = 42_16348436, Time = 46.69 sec. 
+* 118: Cost = 42_16348141, Time = 46.73 sec. 
+* 121: Cost = 39_16362497, Time = 47.23 sec. 
+* 124: Cost = 39_16360059, Time = 48.64 sec. 
+* 136: Cost = 39_16337634, Time = 54.66 sec. 
+* 143: Cost = 39_16337145, Time = 57.09 sec. 
+* 145: Cost = 39_16303495, Time = 58.20 sec. 
+* 148: Cost = 39_16298499, Time = 60.37 sec. 
+* 152: Cost = 39_16287741, Time = 61.81 sec. 
+* 156: Cost = 39_16286886, Time = 64.70 sec. 
+* 168: Cost = 39_16282882, Time = 72.31 sec. 
+* 172: Cost = 39_16260809, Time = 73.17 sec. 
+* 177: Cost = 38_16351260, Time = 78.06 sec. 
+* 178: Cost = 37_16335899, Time = 79.68 sec. 
+* 181: Cost = 37_16318993, Time = 80.25 sec. 
+* 182: Cost = 35_16363933, Time = 80.46 sec. 
+* 186: Cost = 35_16263510, Time = 81.55 sec. 
+* 188: Cost = 35_16255144, Time = 82.42 sec. 
+* 190: Cost = 35_16233377, Time = 83.71 sec. 
+* 193: Cost = 35_16232393, Time = 83.82 sec. 
+* 194: Cost = 35_16228925, Time = 85.24 sec. 
+* 195: Cost = 35_16227117, Time = 86.57 sec. 
+* 196: Cost = 35_16204644, Time = 86.79 sec. 
+* 199: Cost = 35_16200647, Time = 90.39 sec. 
+* 200: Cost = 34_16203445, Time = 90.55 sec. 
+* 201: Cost = 34_16192194, Time = 90.97 sec. 
+* 202: Cost = 34_16184514, Time = 91.17 sec. 
+* 205: Cost = 34_16179939, Time = 92.71 sec. 
+* 211: Cost = 34_16178455, Time = 95.29 sec. 
+* 213: Cost = 34_16174219, Time = 96.23 sec. 
+* 215: Cost = 34_16138767, Time = 96.86 sec. 
+* 218: Cost = 34_16132711, Time = 98.61 sec. 
+* 227: Cost = 34_16116764, Time = 105.45 sec. 
+* 228: Cost = 34_16116554, Time = 105.70 sec. 
+* 234: Cost = 34_16116358, Time = 108.45 sec. 
+* 238: Cost = 34_16008036, Time = 109.03 sec. 
+* 244: Cost = 34_15983853, Time = 112.15 sec. 
+* 245: Cost = 34_15983546, Time = 112.64 sec. 
+* 250: Cost = 34_15981130, Time = 114.80 sec. 
+* 252: Cost = 34_15975463, Time = 116.82 sec. 
+* 258: Cost = 34_15975056, Time = 119.74 sec. 
+* 259: Cost = 34_15974878, Time = 119.87 sec. 
+* 260: Cost = 33_16081727, Time = 120.04 sec. 
+* 271: Cost = 33_16025899, Time = 124.71 sec. 
+* 280: Cost = 33_16021879, Time = 130.60 sec. 
+* 288: Cost = 33_16020174, Time = 133.98 sec. 
+* 293: Cost = 33_16009737, Time = 138.80 sec. 
+* 298: Cost = 33_15972484, Time = 144.43 sec. 
+* 302: Cost = 33_15968250, Time = 146.25 sec. 
+* 306: Cost = 32_16045964, Time = 151.17 sec. 
+* 308: Cost = 32_16041555, Time = 152.20 sec. 
+* 313: Cost = 32_16038034, Time = 153.59 sec. 
+* 320: Cost = 32_16037389, Time = 158.14 sec. 
+* 321: Cost = 32_16027120, Time = 159.30 sec. 
+* 323: Cost = 32_16015009, Time = 159.69 sec. 
+* 324: Cost = 32_16005867, Time = 160.21 sec. 
+* 327: Cost = 32_15990425, Time = 161.23 sec. 
+* 328: Cost = 32_15988707, Time = 161.48 sec. 
+* 330: Cost = 32_15988583, Time = 161.77 sec. 
+* 334: Cost = 31_16196778, Time = 166.54 sec. 
+* 336: Cost = 31_16195658, Time = 168.68 sec. 
+* 338: Cost = 31_16195483, Time = 170.70 sec. 
+* 339: Cost = 31_16195459, Time = 171.55 sec. 
+* 340: Cost = 31_16194951, Time = 171.65 sec. 
+* 341: Cost = 31_16193586, Time = 171.77 sec. 
+* 343: Cost = 30_16141687, Time = 173.92 sec. 
+* 348: Cost = 30_16134624, Time = 176.52 sec. 
+* 349: Cost = 29_16144728, Time = 178.21 sec. 
+* 352: Cost = 29_16130562, Time = 180.47 sec. 
+* 358: Cost = 29_16129078, Time = 182.53 sec. 
+* 359: Cost = 29_16129064, Time = 182.64 sec. 
+* 360: Cost = 29_16127202, Time = 182.89 sec. 
+* 362: Cost = 29_16100488, Time = 184.69 sec. 
+* 363: Cost = 29_16050151, Time = 185.08 sec. 
+* 366: Cost = 29_16037506, Time = 188.70 sec. 
+* 367: Cost = 29_16021561, Time = 188.87 sec. 
+* 368: Cost = 29_16011596, Time = 189.03 sec. 
+* 370: Cost = 29_16011548, Time = 189.93 sec. 
+* 373: Cost = 29_16004317, Time = 191.08 sec. 
+* 376: Cost = 29_16003812, Time = 191.91 sec. 
+* 377: Cost = 29_15998788, Time = 192.18 sec. 
+* 379: Cost = 29_15994996, Time = 194.51 sec. 
+* 380: Cost = 29_15987156, Time = 194.64 sec. 
+* 387: Cost = 29_15985027, Time = 199.86 sec. 
+* 390: Cost = 29_15981319, Time = 200.34 sec. 
+* 392: Cost = 28_16095803, Time = 202.64 sec. 
+* 396: Cost = 28_16055891, Time = 205.56 sec. 
+* 399: Cost = 28_16053500, Time = 207.20 sec. 
+* 403: Cost = 28_16033109, Time = 207.92 sec. 
+* 405: Cost = 28_16031388, Time = 208.82 sec. 
+* 409: Cost = 28_16031203, Time = 212.48 sec. 
+* 416: Cost = 28_16030821, Time = 217.91 sec. 
+* 421: Cost = 28_16017158, Time = 222.42 sec. 
+* 422: Cost = 28_16012751, Time = 222.76 sec. 
+* 435: Cost = 28_16003226, Time = 232.27 sec. 
+* 439: Cost = 28_15999876, Time = 232.66 sec. 
+* 448: Cost = 28_15999562, Time = 238.74 sec. 
+* 450: Cost = 28_15976258, Time = 239.30 sec. 
+* 456: Cost = 28_15975618, Time = 243.16 sec. 
+* 457: Cost = 28_15971786, Time = 243.40 sec. 
+* 459: Cost = 28_15969827, Time = 243.44 sec. 
+* 470: Cost = 28_15952296, Time = 251.76 sec. 
+* 479: Cost = 28_15946103, Time = 254.36 sec. 
+* 484: Cost = 28_15945816, Time = 255.25 sec. 
+* 490: Cost = 28_15944517, Time = 258.95 sec. 
+* 491: Cost = 28_15941782, Time = 259.52 sec. 
+* 499: Cost = 28_15941761, Time = 269.83 sec. 
+* 532: Cost = 28_15940661, Time = 291.61 sec. 
+* 539: Cost = 28_15906335, Time = 296.88 sec. 
+* 545: Cost = 28_15906150, Time = 301.80 sec. 
+* 559: Cost = 28_15905812, Time = 307.98 sec. 
+* 561: Cost = 28_15905545, Time = 310.69 sec. 
+* 576: Cost = 28_15904978, Time = 322.07 sec. 
+* 577: Cost = 28_15902341, Time = 322.26 sec. 
+* 583: Cost = 28_15901653, Time = 331.12 sec. 
+* 587: Cost = 27_16085424, Time = 333.41 sec. 
+* 589: Cost = 27_16078903, Time = 334.58 sec. 
+* 598: Cost = 27_16062827, Time = 342.24 sec. 
+* 601: Cost = 27_16055691, Time = 345.53 sec. 
+* 606: Cost = 27_16042002, Time = 349.89 sec. 
+* 611: Cost = 27_16036454, Time = 354.59 sec. 
+* 614: Cost = 27_16034168, Time = 356.10 sec. 
+* 617: Cost = 27_16033208, Time = 356.31 sec. 
+* 618: Cost = 27_16031614, Time = 356.56 sec. 
+* 624: Cost = 27_16027077, Time = 365.07 sec. 
+* 629: Cost = 27_16025828, Time = 367.67 sec. 
+* 634: Cost = 27_16020295, Time = 370.17 sec. 
+* 641: Cost = 27_16011653, Time = 371.99 sec. 
+* 645: Cost = 27_16010748, Time = 376.49 sec. 
+* 648: Cost = 27_16007490, Time = 378.96 sec. 
+* 650: Cost = 27_16006829, Time = 379.20 sec. 
+* 655: Cost = 27_16005464, Time = 380.07 sec. 
+* 662: Cost = 27_16005300, Time = 381.74 sec. 
+* 664: Cost = 27_16004475, Time = 382.15 sec. 
+* 666: Cost = 27_16001590, Time = 382.20 sec. 
+* 673: Cost = 27_15999871, Time = 385.60 sec. 
+* 695: Cost = 27_15986123, Time = 394.03 sec. 
+* 696: Cost = 26_15937819, Time = 394.43 sec. 
+* 701: Cost = 26_15936817, Time = 401.00 sec. 
+* 703: Cost = 26_15935947, Time = 401.96 sec. 
+* 709: Cost = 26_15932380, Time = 407.90 sec. 
+* 712: Cost = 26_15926198, Time = 410.32 sec. 
+* 717: Cost = 26_15925942, Time = 413.48 sec. 
+* 726: Cost = 26_15924505, Time = 421.13 sec. 
+* 727: Cost = 26_15924455, Time = 421.99 sec. 
+* 737: Cost = 26_15896602, Time = 428.38 sec. 
+* 743: Cost = 26_15874612, Time = 436.11 sec. 
+* 749: Cost = 26_15874076, Time = 441.63 sec. 
+* 756: Cost = 26_15873235, Time = 451.74 sec. 
+* 762: Cost = 26_15872642, Time = 457.94 sec. 
+* 789: Cost = 26_15861460, Time = 490.40 sec. 
+* 796: Cost = 26_15859839, Time = 494.58 sec. 
+* 803: Cost = 26_15859799, Time = 496.74 sec. 
+* 817: Cost = 25_16167392, Time = 512.72 sec. 
+* 822: Cost = 25_16132422, Time = 516.62 sec. 
+* 831: Cost = 25_16117941, Time = 526.17 sec. 
+* 834: Cost = 25_16111330, Time = 527.42 sec. 
+* 837: Cost = 25_15948907, Time = 529.73 sec. 
+* 840: Cost = 25_15940077, Time = 533.11 sec. 
+* 847: Cost = 25_15923537, Time = 542.38 sec. 
+* 855: Cost = 25_15916720, Time = 547.70 sec. 
+* 857: Cost = 25_15914566, Time = 549.14 sec. 
+* 865: Cost = 25_15912449, Time = 560.15 sec. 
+* 876: Cost = 25_15912028, Time = 567.49 sec. 
+* 889: Cost = 25_15911937, Time = 577.99 sec. 
+* 891: Cost = 25_15911254, Time = 578.34 sec. 
+* 897: Cost = 25_15911213, Time = 580.36 sec. 
+* 899: Cost = 25_15905560, Time = 583.29 sec. 
+* 908: Cost = 25_15905540, Time = 589.32 sec. 
+* 912: Cost = 25_15905276, Time = 590.31 sec. 
+* 916: Cost = 25_15904979, Time = 592.64 sec. 
+* 918: Cost = 25_15899620, Time = 593.65 sec. 
+* 924: Cost = 25_15899218, Time = 598.78 sec. 
+* 931: Cost = 25_15897862, Time = 604.14 sec. 
+* 936: Cost = 25_15897377, Time = 604.96 sec. 
+* 939: Cost = 25_15886919, Time = 607.51 sec. 
+* 941: Cost = 25_15884822, Time = 608.07 sec. 
+* 950: Cost = 25_15884775, Time = 612.16 sec. 
+* 973: Cost = 25_15871184, Time = 626.89 sec. 
+* 976: Cost = 25_15861455, Time = 628.95 sec. 
+* 979: Cost = 25_15859292, Time = 630.43 sec. 
+* 980: Cost = 25_15857873, Time = 630.89 sec. 
+* 981: Cost = 25_15856631, Time = 631.07 sec. 
+* 996: Cost = 25_15856615, Time = 647.42 sec. 
+* 1004: Cost = 25_15855166, Time = 652.04 sec. 
+* 1016: Cost = 25_15843121, Time = 658.75 sec. 
+* 1022: Cost = 25_15839332, Time = 660.50 sec. 
+* 1025: Cost = 25_15835846, Time = 663.12 sec. 
+* 1026: Cost = 25_15835474, Time = 664.35 sec. 
+* 1027: Cost = 25_15834958, Time = 664.46 sec. 
+* 1042: Cost = 25_15832250, Time = 673.60 sec. 
+* 1080: Cost = 25_15824986, Time = 708.75 sec. 
+* 1089: Cost = 25_15821642, Time = 715.43 sec. 
+* 1092: Cost = 25_15819925, Time = 716.17 sec. 
+* 1104: Cost = 25_15817447, Time = 728.12 sec. 
+* 1125: Cost = 25_15812350, Time = 742.27 sec. 
+* 1127: Cost = 25_15810658, Time = 742.80 sec. 
+* 1148: Cost = 25_15807296, Time = 761.06 sec. 
+* 1157: Cost = 25_15806926, Time = 766.42 sec. 
+* 1159: Cost = 25_15806439, Time = 767.19 sec. 
+* 1168: Cost = 25_15806389, Time = 776.75 sec. 
+* 1173: Cost = 25_15789108, Time = 780.36 sec. 
+* 1175: Cost = 25_15786571, Time = 782.20 sec. 
+* 1185: Cost = 25_15784820, Time = 792.98 sec. 
+* 1194: Cost = 25_15784504, Time = 801.00 sec. 
+* 1199: Cost = 25_15783603, Time = 802.87 sec. 
+* 1206: Cost = 25_15779904, Time = 810.48 sec. 
+* 1214: Cost = 25_15779484, Time = 818.51 sec. 
+* 1226: Cost = 25_15778709, Time = 832.38 sec. 
+* 1227: Cost = 25_15777097, Time = 832.85 sec. 
+* 1232: Cost = 25_15776885, Time = 833.77 sec. 
+* 1243: Cost = 25_15765656, Time = 839.64 sec. 
+* 1252: Cost = 25_15765570, Time = 840.99 sec. 
+* 1253: Cost = 25_15741939, Time = 841.90 sec. 
+* 1254: Cost = 25_15737697, Time = 842.47 sec. 
+* 1256: Cost = 25_15736876, Time = 842.70 sec. 
+* 1262: Cost = 25_15733608, Time = 848.30 sec. 
+* 1265: Cost = 25_15729850, Time = 849.28 sec. 
+* 1268: Cost = 25_15729198, Time = 850.98 sec. 
+* 1283: Cost = 25_15728414, Time = 862.72 sec. 
+* 1285: Cost = 25_15711524, Time = 863.26 sec. 
+* 1288: Cost = 25_15711312, Time = 863.75 sec. 
+* 1292: Cost = 25_15710712, Time = 868.05 sec. 
+* 1294: Cost = 25_15709060, Time = 869.11 sec. 
+* 1295: Cost = 25_15707652, Time = 869.28 sec. 
+* 1300: Cost = 25_15706612, Time = 871.69 sec. 
+* 1308: Cost = 25_15704499, Time = 878.01 sec. 
+* 1310: Cost = 25_15704285, Time = 878.54 sec. 
+* 1317: Cost = 25_15703177, Time = 882.42 sec. 
+* 1324: Cost = 25_15695894, Time = 889.31 sec. 
+* 1326: Cost = 25_15695893, Time = 890.36 sec. 
+* 1331: Cost = 25_15690671, Time = 896.89 sec. 
+* 1337: Cost = 25_15685845, Time = 899.39 sec. 
+* 1343: Cost = 25_15684542, Time = 904.93 sec. 
+* 1344: Cost = 25_15684132, Time = 905.10 sec. 
+* 1345: Cost = 25_15680950, Time = 905.43 sec. 
+* 1351: Cost = 25_15679947, Time = 912.23 sec. 
+* 1387: Cost = 25_15678701, Time = 945.73 sec. 
+* 1450: Cost = 25_15678222, Time = 999.10 sec. 
+* 1459: Cost = 25_15677573, Time = 1006.25 sec. 
+* 1461: Cost = 25_15675340, Time = 1010.09 sec. 
+* 1463: Cost = 25_15672220, Time = 1010.42 sec. 
+* 1495: Cost = 25_15671962, Time = 1027.24 sec. 
+* 1498: Cost = 25_15671662, Time = 1029.34 sec. 
+* 1507: Cost = 25_15670991, Time = 1035.66 sec. 
+* 1509: Cost = 25_15670754, Time = 1036.04 sec. 
+* 1524: Cost = 25_15669731, Time = 1049.39 sec. 
+* 1527: Cost = 25_15664592, Time = 1050.38 sec. 
+* 1532: Cost = 25_15664493, Time = 1057.79 sec. 
+* 1545: Cost = 25_15663735, Time = 1066.24 sec. 
+* 1556: Cost = 25_15662697, Time = 1082.24 sec. 
+* 1592: Cost = 25_15659454, Time = 1105.98 sec. 
+* 1612: Cost = 25_15659421, Time = 1122.66 sec. 
+* 1613: Cost = 25_15654867, Time = 1123.21 sec. 
+* 1640: Cost = 25_15654108, Time = 1152.94 sec. 
+* 1641: Cost = 25_15653646, Time = 1153.14 sec. 
+* 1659: Cost = 25_15651885, Time = 1163.28 sec. 
+* 1720: Cost = 25_15651707, Time = 1223.35 sec. 
+* 1785: Cost = 25_15650602, Time = 1280.49 sec. 
+* 1867: Cost = 25_15650436, Time = 1356.46 sec. 
+* 1868: Cost = 25_15650291, Time = 1356.53 sec. 
+* 1879: Cost = 25_15645990, Time = 1364.30 sec. 
+* 1900: Cost = 25_15645986, Time = 1388.44 sec. 
+* 1929: Cost = 25_15645623, Time = 1418.11 sec. 
+* 1937: Cost = 25_15645599, Time = 1424.17 sec. 
+* 2001: Cost = 25_15645513, Time = 1473.89 sec. 
+* 2013: Cost = 25_15645144, Time = 1480.97 sec. 
+* 2063: Cost = 25_15643889, Time = 1510.14 sec. 
+* 2118: Cost = 25_15643470, Time = 1551.50 sec. 
+* 2139: Cost = 25_15643392, Time = 1562.55 sec. 
+* 2169: Cost = 22_15720828, Time = 1591.21 sec. 
+* 2170: Cost = 22_15720788, Time = 1591.36 sec. 
+* 2175: Cost = 22_15707696, Time = 1594.71 sec. 
+* 2180: Cost = 21_15771212, Time = 1600.23 sec. 
+* 2191: Cost = 21_15758359, Time = 1618.29 sec. 
+* 2196: Cost = 21_15736353, Time = 1623.13 sec. 
+* 2201: Cost = 21_15735688, Time = 1628.61 sec. 
+* 2203: Cost = 21_15723948, Time = 1631.24 sec. 
+* 2206: Cost = 21_15720549, Time = 1632.37 sec. 
+* 2216: Cost = 21_15718654, Time = 1648.44 sec. 
+* 2219: Cost = 21_15716698, Time = 1651.40 sec. 
+* 2225: Cost = 21_15713329, Time = 1659.99 sec. 
+* 2243: Cost = 21_15694094, Time = 1675.07 sec. 
+* 2244: Cost = 21_15680892, Time = 1675.48 sec. 
+* 2250: Cost = 21_15678994, Time = 1686.37 sec. 
+* 2257: Cost = 21_15675015, Time = 1691.15 sec. 
+* 2259: Cost = 21_15674500, Time = 1692.53 sec. 
+* 2265: Cost = 21_15656719, Time = 1698.02 sec. 
+* 2287: Cost = 21_15650922, Time = 1726.05 sec. 
+* 2292: Cost = 21_15647586, Time = 1730.42 sec. 
+* 2293: Cost = 21_15646669, Time = 1730.85 sec. 
+* 2298: Cost = 21_15635954, Time = 1734.66 sec. 
+* 2301: Cost = 21_15635302, Time = 1737.87 sec. 
+* 2303: Cost = 21_15628401, Time = 1738.14 sec. 
+* 2312: Cost = 21_15625952, Time = 1750.48 sec. 
+* 2316: Cost = 21_15623868, Time = 1751.87 sec. 
+* 2321: Cost = 21_15623228, Time = 1758.52 sec. 
+* 2325: Cost = 21_15619378, Time = 1763.35 sec. 
+* 2328: Cost = 21_15619364, Time = 1767.25 sec. 
+* 2330: Cost = 21_15619337, Time = 1768.97 sec. 
+* 2340: Cost = 21_15619247, Time = 1779.01 sec. 
+* 2343: Cost = 21_15619215, Time = 1782.58 sec. 
+* 2362: Cost = 21_15618286, Time = 1796.93 sec. 
+* 2364: Cost = 21_15617503, Time = 1799.13 sec. 
+* 2374: Cost = 21_15617291, Time = 1811.96 sec. 
+* 2375: Cost = 21_15617270, Time = 1812.28 sec. 
+* 2391: Cost = 21_15617214, Time = 1828.45 sec. 
+* 2413: Cost = 21_15617138, Time = 1848.62 sec. 
+* 2450: Cost = 21_15613399, Time = 1883.02 sec. 
+* 2451: Cost = 21_15612725, Time = 1883.42 sec. 
+* 2472: Cost = 21_15612618, Time = 1902.05 sec. 
+* 2487: Cost = 21_15612531, Time = 1917.80 sec. 
+* 2489: Cost = 21_15606338, Time = 1921.36 sec. 
+* 2501: Cost = 21_15605063, Time = 1932.61 sec. 
+* 2521: Cost = 21_15604952, Time = 1955.10 sec. 
+* 2523: Cost = 21_15604074, Time = 1955.42 sec. 
+* 2540: Cost = 21_15603338, Time = 1975.30 sec. 
+* 2563: Cost = 21_15594212, Time = 2006.44 sec. 
+* 2568: Cost = 21_15593676, Time = 2010.22 sec. 
+* 2586: Cost = 21_15591041, Time = 2029.43 sec. 
+* 2587: Cost = 21_15590957, Time = 2029.53 sec. 
+* 2600: Cost = 21_15588872, Time = 2036.10 sec. 
+* 2622: Cost = 21_15588814, Time = 2054.29 sec. 
+* 2689: Cost = 21_15587697, Time = 2102.77 sec. 
+* 2710: Cost = 20_15798552, Time = 2122.94 sec. 
+* 2714: Cost = 20_15798165, Time = 2126.45 sec. 
+* 2716: Cost = 20_15787412, Time = 2129.50 sec. 
+* 2717: Cost = 20_15787041, Time = 2129.67 sec. 
+* 2721: Cost = 20_15771200, Time = 2135.01 sec. 
+* 2724: Cost = 20_15721082, Time = 2139.44 sec. 
+* 2726: Cost = 20_15704673, Time = 2142.07 sec. 
+* 2727: Cost = 20_15704108, Time = 2142.32 sec. 
+* 2729: Cost = 20_15694240, Time = 2142.66 sec. 
+* 2742: Cost = 20_15689238, Time = 2152.45 sec. 
+* 2745: Cost = 20_15689124, Time = 2155.16 sec. 
+* 2765: Cost = 20_15685908, Time = 2173.37 sec. 
+* 2771: Cost = 20_15672644, Time = 2182.38 sec. 
+* 2774: Cost = 20_15665169, Time = 2186.27 sec. 
+* 2784: Cost = 20_15662869, Time = 2195.71 sec. 
+* 2797: Cost = 20_15662227, Time = 2204.74 sec. 
+* 2799: Cost = 20_15656774, Time = 2205.96 sec. 
+* 2836: Cost = 20_15656547, Time = 2242.29 sec. 
+* 2854: Cost = 20_15656295, Time = 2259.19 sec. 
+* 2860: Cost = 20_15656232, Time = 2262.69 sec. 
+* 2889: Cost = 20_15653924, Time = 2288.92 sec. 
+* 2897: Cost = 20_15651178, Time = 2292.48 sec. 
+* 2901: Cost = 20_15650271, Time = 2294.12 sec. 
+* 2911: Cost = 20_15649741, Time = 2301.73 sec. 
+* 2925: Cost = 20_15649643, Time = 2316.74 sec. 
+* 2940: Cost = 20_15649635, Time = 2325.53 sec. 
+* 2949: Cost = 20_15646437, Time = 2336.16 sec. 
+* 2974: Cost = 20_15645857, Time = 2365.12 sec. 
+* 3024: Cost = 20_15645828, Time = 2417.49 sec. 
+* 3035: Cost = 20_15642648, Time = 2424.14 sec. 
+* 3043: Cost = 20_15642500, Time = 2430.23 sec. 
+* 3051: Cost = 20_15632771, Time = 2437.65 sec. 
+* 3056: Cost = 20_15626731, Time = 2440.63 sec. 
+* 3064: Cost = 20_15626455, Time = 2450.08 sec. 
+* 3068: Cost = 20_15626451, Time = 2456.87 sec. 
+* 3079: Cost = 20_15625454, Time = 2474.04 sec. 
+* 3113: Cost = 20_15624484, Time = 2502.21 sec. 
+* 3146: Cost = 20_15623791, Time = 2536.77 sec. 
+* 3167: Cost = 20_15620425, Time = 2551.25 sec. 
+* 3173: Cost = 20_15619717, Time = 2555.54 sec. 
+* 3200: Cost = 20_15619398, Time = 2589.60 sec. 
+* 3267: Cost = 20_15618918, Time = 2662.84 sec. 
+* 3313: Cost = 20_15618348, Time = 2689.58 sec. 
+* 3317: Cost = 20_15618182, Time = 2697.74 sec. 
+* 3328: Cost = 20_15617143, Time = 2720.35 sec. 
+* 3377: Cost = 20_15616583, Time = 2759.99 sec. 
+* 3417: Cost = 20_15616216, Time = 2797.58 sec. 
+* 3437: Cost = 20_15615099, Time = 2811.94 sec. 
+* 3528: Cost = 20_15611731, Time = 2887.25 sec. 
+* 3540: Cost = 20_15611308, Time = 2895.80 sec. 
+* 3541: Cost = 20_15607353, Time = 2896.04 sec. 
+* 3545: Cost = 20_15603695, Time = 2897.40 sec. 
+* 3552: Cost = 20_15600779, Time = 2907.44 sec. 
+* 3569: Cost = 20_15599893, Time = 2920.61 sec. 
+* 3587: Cost = 20_15599884, Time = 2939.10 sec. 
+* 3644: Cost = 20_15599648, Time = 2976.34 sec. 
+* 3655: Cost = 20_15596657, Time = 2980.63 sec. 
+* 3688: Cost = 20_15595484, Time = 2999.48 sec. 
+* 3693: Cost = 20_15595072, Time = 3004.50 sec. 
+* 3729: Cost = 20_15595065, Time = 3031.33 sec. 
+* 3744: Cost = 20_15594064, Time = 3047.26 sec. 
+* 3752: Cost = 20_15590349, Time = 3059.44 sec. 
+* 3778: Cost = 20_15590240, Time = 3078.55 sec. 
+* 3804: Cost = 20_15589863, Time = 3100.97 sec. 
+* 3807: Cost = 20_15587445, Time = 3104.05 sec. 
+* 3809: Cost = 20_15584939, Time = 3106.39 sec. 
+* 3812: Cost = 20_15584450, Time = 3107.37 sec. 
+* 3827: Cost = 20_15584270, Time = 3121.31 sec. 
+* 3948: Cost = 20_15584043, Time = 3229.66 sec. 
+* 4046: Cost = 20_15583931, Time = 3319.34 sec. 
+* 4054: Cost = 20_15582959, Time = 3323.14 sec. 
+* 4127: Cost = 20_15582890, Time = 3409.53 sec. 
+* 4146: Cost = 20_15582872, Time = 3426.50 sec. 
+* 4185: Cost = 20_15578875, Time = 3479.43 sec. 
+* 4323: Cost = 20_15571388, Time = 3614.81 sec. 
+* 4366: Cost = 20_15569173, Time = 3657.05 sec. 
+* 4398: Cost = 20_15569078, Time = 3689.51 sec. 
+* 4406: Cost = 20_15568697, Time = 3697.74 sec. 
+* 4413: Cost = 20_15564111, Time = 3706.68 sec. 
+* 4417: Cost = 20_15563246, Time = 3709.28 sec. 
+* 4459: Cost = 20_15562981, Time = 3749.80 sec. 
+* 4484: Cost = 20_15562135, Time = 3776.18 sec. 
+* 4495: Cost = 20_15561572, Time = 3783.81 sec. 
+* 4571: Cost = 20_15555719, Time = 3845.43 sec. 
+* 4643: Cost = 20_15555687, Time = 3920.38 sec. 
+* 4719: Cost = 20_15552517, Time = 3981.28 sec. 
+* 4753: Cost = 20_15552352, Time = 4015.77 sec. 
+* 4805: Cost = 20_15551756, Time = 4073.74 sec. 
+* 4818: Cost = 20_15551463, Time = 4088.62 sec. 
+* 4824: Cost = 20_15551303, Time = 4093.34 sec. 
+* 4852: Cost = 20_15538227, Time = 4123.42 sec. 
+* 4865: Cost = 20_15538008, Time = 4136.03 sec. 
+* 4887: Cost = 20_15537889, Time = 4159.46 sec. 
+* 4939: Cost = 20_15537696, Time = 4208.86 sec. 
+* 4941: Cost = 20_15537495, Time = 4209.25 sec. 
+* 4958: Cost = 20_15535044, Time = 4230.80 sec. 
+* 4974: Cost = 20_15530534, Time = 4240.62 sec. 
+* 5077: Cost = 20_15530048, Time = 4343.18 sec. 
+* 5122: Cost = 20_15529825, Time = 4381.67 sec. 
+* 5144: Cost = 20_15529791, Time = 4404.90 sec. 
+* 5611: Cost = 20_15529150, Time = 4806.36 sec. 
+* 5687: Cost = 20_15528525, Time = 4868.16 sec. 
+* 5762: Cost = 20_15528205, Time = 4943.28 sec. 
+* 5781: Cost = 20_15527734, Time = 4959.37 sec. 
+* 5837: Cost = 20_15527483, Time = 5015.16 sec. 
+* 5972: Cost = 20_15527213, Time = 5156.01 sec. 
+* 6100: Cost = 20_15526921, Time = 5270.25 sec. 
+* 6170: Cost = 20_15526009, Time = 5342.41 sec. 
+* 6477: Cost = 20_15526003, Time = 5623.69 sec. 
+* 6664: Cost = 20_15525875, Time = 5798.47 sec. 
+* 6926: Cost = 20_15525177, Time = 6052.94 sec. 
+* 7106: Cost = 20_15524559, Time = 6210.70 sec. 
+* 7846: Cost = 20_15520890, Time = 6951.50 sec. 
+* 8187: Cost = 20_15518604, Time = 7278.06 sec. 
+* 8343: Cost = 20_15517975, Time = 7425.04 sec. 
+* 8349: Cost = 20_15512058, Time = 7427.43 sec. 
+* 8375: Cost = 20_15509828, Time = 7461.05 sec. 
+* 8412: Cost = 20_15508144, Time = 7505.57 sec. 
+* 8422: Cost = 20_15506545, Time = 7511.78 sec. 
+* 8637: Cost = 20_15506531, Time = 7754.25 sec. 
+* 8639: Cost = 20_15505832, Time = 7754.69 sec. 
+* 8821: Cost = 20_15505170, Time = 7927.26 sec. 
+* 8891: Cost = 20_15505089, Time = 7978.26 sec. 
+* 9075: Cost = 20_15504891, Time = 8148.09 sec. 
+* 9129: Cost = 20_15504059, Time = 8205.75 sec. 
+* 9137: Cost = 20_15502550, Time = 8219.70 sec. 
+* 9783: Cost = 20_15501981, Time = 8796.06 sec. 
+Population:
+  1: 20_15501981
+Run 1: Cost = 20_15501981, Time = 9021.40 sec. 
+
+Successes/Runs = 0/1 
+Cost.min = 15501981, Cost.avg = 15501981.00, Cost.max = 15501981
+Gap.min = 0.0000%, Gap.avg = 0.0000%, Gap.max = 0.0000%
+Penalty.min = 20, Penalty.avg = 20.00, Penalty.max = 20
+Trials.min = 10000, Trials.avg = 10000.0, Trials.max = 10000
+Time.min = 9021.40 sec., Time.avg = 9021.40 sec., Time.max = 9021.40 sec.
+Time.total = 9021.88 sec.
+  Size.min = 2, Size.max = 12, Penalty = 20
+  Cost.min = 35680, Cost.max = 216736, Cost.sum = 15501981
+Best CVRP solution:
+  Cost = 20_15501981
+

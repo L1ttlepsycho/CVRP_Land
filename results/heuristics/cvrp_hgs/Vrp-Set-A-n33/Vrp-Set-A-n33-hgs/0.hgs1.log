@@ -1,0 +1,59 @@
+=========== Algorithm Parameters =================
+---- nbGranular        is set to 20
+---- mu                is set to 25
+---- lambda            is set to 40
+---- nbElite           is set to 4
+---- nbClose           is set to 5
+---- targetFeasible    is set to 0.2
+---- seed              is set to 1234
+---- nbIter            is set to 20000
+---- timeLimit         is set to 0
+---- useSwapStar       is set to 1
+==================================================
+----- READING INSTANCE: ../../results/heuristics/cvrp_hgs/Vrp-Set-A-n33/Vrp-Set-A-n33-hgs/0.hgs1.vrp
+----- FLEET SIZE WAS NOT SPECIFIED: DEFAULT INITIALIZATION TO 9 VEHICLES
+----- INSTANCE SUCCESSFULLY LOADED WITH 32 CLIENTS AND 9 VEHICLES
+----- BUILDING INITIAL POPULATION
+----- STARTING GENETIC ALGORITHM
+It      0      2 | T(s) 0.03 | Feas 60 0.66 0.67 | NO-INFEASIBLE | Div 0.20 -1.00 | Feas 1.00 1.00 | Pen 0.10 0.85
+It    500    502 | T(s) 0.13 | Feas 27 0.66 0.68 | NO-INFEASIBLE | Div 0.42 -1.00 | Feas 1.00 1.00 | Pen 0.10 0.38
+It   1000   1002 | T(s) 0.23 | Feas 35 0.66 0.67 | NO-INFEASIBLE | Div 0.30 -1.00 | Feas 1.00 1.00 | Pen 0.10 0.17
+It   1500   1502 | T(s) 0.31 | Feas 43 0.66 0.67 | NO-INFEASIBLE | Div 0.28 -1.00 | Feas 1.00 1.00 | Pen 0.10 0.10
+It   2000   2002 | T(s) 0.39 | Feas 51 0.66 0.67 | NO-INFEASIBLE | Div 0.28 -1.00 | Feas 1.00 1.00 | Pen 0.10 0.10
+It   2500   2502 | T(s) 0.46 | Feas 59 0.66 0.67 | NO-INFEASIBLE | Div 0.19 -1.00 | Feas 1.00 1.00 | Pen 0.10 0.10
+It   3000   3002 | T(s) 0.54 | Feas 26 0.66 0.68 | NO-INFEASIBLE | Div 0.44 -1.00 | Feas 1.00 1.00 | Pen 0.10 0.10
+It   3500   3502 | T(s) 0.62 | Feas 34 0.66 0.68 | NO-INFEASIBLE | Div 0.37 -1.00 | Feas 1.00 1.00 | Pen 0.10 0.10
+It   4000   4002 | T(s) 0.70 | Feas 42 0.66 0.67 | NO-INFEASIBLE | Div 0.31 -1.00 | Feas 1.00 1.00 | Pen 0.10 0.10
+It   4500   4502 | T(s) 0.78 | Feas 50 0.66 0.67 | NO-INFEASIBLE | Div 0.24 -1.00 | Feas 1.00 1.00 | Pen 0.10 0.10
+It   5000   5002 | T(s) 0.86 | Feas 58 0.66 0.67 | NO-INFEASIBLE | Div 0.19 -1.00 | Feas 1.00 1.00 | Pen 0.10 0.10
+It   5500   5502 | T(s) 0.94 | Feas 25 0.66 0.68 | NO-INFEASIBLE | Div 0.43 -1.00 | Feas 1.00 1.00 | Pen 0.10 0.10
+It   6000   6002 | T(s) 1.02 | Feas 33 0.66 0.68 | NO-INFEASIBLE | Div 0.32 -1.00 | Feas 1.00 1.00 | Pen 0.10 0.10
+It   6500   6502 | T(s) 1.10 | Feas 41 0.66 0.67 | NO-INFEASIBLE | Div 0.28 -1.00 | Feas 1.00 1.00 | Pen 0.10 0.10
+It   7000   7002 | T(s) 1.17 | Feas 49 0.66 0.67 | NO-INFEASIBLE | Div 0.23 -1.00 | Feas 1.00 1.00 | Pen 0.10 0.10
+It   7500   7502 | T(s) 1.25 | Feas 57 0.66 0.67 | NO-INFEASIBLE | Div 0.26 -1.00 | Feas 1.00 1.00 | Pen 0.10 0.10
+It   8000   8002 | T(s) 1.33 | Feas 65 0.66 0.67 | NO-INFEASIBLE | Div 0.20 -1.00 | Feas 1.00 1.00 | Pen 0.10 0.10
+It   8500   8502 | T(s) 1.42 | Feas 32 0.66 0.68 | NO-INFEASIBLE | Div 0.36 -1.00 | Feas 1.00 1.00 | Pen 0.10 0.10
+It   9000   9002 | T(s) 1.50 | Feas 40 0.66 0.67 | NO-INFEASIBLE | Div 0.27 -1.00 | Feas 1.00 1.00 | Pen 0.10 0.10
+It   9500   9502 | T(s) 1.58 | Feas 48 0.66 0.67 | NO-INFEASIBLE | Div 0.25 -1.00 | Feas 1.00 1.00 | Pen 0.10 0.10
+It  10000  10002 | T(s) 1.66 | Feas 56 0.66 0.67 | NO-INFEASIBLE | Div 0.23 -1.00 | Feas 1.00 1.00 | Pen 0.10 0.10
+It  10500  10502 | T(s) 1.73 | Feas 64 0.66 0.67 | NO-INFEASIBLE | Div 0.20 -1.00 | Feas 1.00 1.00 | Pen 0.10 0.10
+It  11000  11002 | T(s) 1.81 | Feas 31 0.66 0.68 | NO-INFEASIBLE | Div 0.36 -1.00 | Feas 1.00 1.00 | Pen 0.10 0.10
+It  11500  11502 | T(s) 1.89 | Feas 39 0.66 0.67 | NO-INFEASIBLE | Div 0.30 -1.00 | Feas 1.00 1.00 | Pen 0.10 0.10
+It  12000  12002 | T(s) 1.97 | Feas 47 0.66 0.67 | NO-INFEASIBLE | Div 0.29 -1.00 | Feas 1.00 1.00 | Pen 0.10 0.10
+It  12500  12502 | T(s) 2.05 | Feas 55 0.66 0.67 | NO-INFEASIBLE | Div 0.24 -1.00 | Feas 1.00 1.00 | Pen 0.10 0.10
+It  13000  13002 | T(s) 2.13 | Feas 63 0.66 0.67 | NO-INFEASIBLE | Div 0.21 -1.00 | Feas 1.00 1.00 | Pen 0.10 0.10
+It  13500  13502 | T(s) 2.21 | Feas 30 0.66 0.68 | NO-INFEASIBLE | Div 0.36 -1.00 | Feas 1.00 1.00 | Pen 0.10 0.10
+It  14000  14002 | T(s) 2.29 | Feas 38 0.66 0.67 | NO-INFEASIBLE | Div 0.30 -1.00 | Feas 1.00 1.00 | Pen 0.10 0.10
+It  14500  14502 | T(s) 2.36 | Feas 46 0.66 0.67 | NO-INFEASIBLE | Div 0.29 -1.00 | Feas 1.00 1.00 | Pen 0.10 0.10
+It  15000  15002 | T(s) 2.44 | Feas 54 0.66 0.67 | NO-INFEASIBLE | Div 0.23 -1.00 | Feas 1.00 1.00 | Pen 0.10 0.10
+It  15500  15502 | T(s) 2.52 | Feas 62 0.66 0.67 | NO-INFEASIBLE | Div 0.18 -1.00 | Feas 1.00 1.00 | Pen 0.10 0.10
+It  16000  16002 | T(s) 2.60 | Feas 29 0.66 0.68 | NO-INFEASIBLE | Div 0.37 -1.00 | Feas 1.00 1.00 | Pen 0.10 0.10
+It  16500  16502 | T(s) 2.68 | Feas 37 0.66 0.67 | NO-INFEASIBLE | Div 0.31 -1.00 | Feas 1.00 1.00 | Pen 0.10 0.10
+It  17000  17002 | T(s) 2.76 | Feas 45 0.66 0.67 | NO-INFEASIBLE | Div 0.27 -1.00 | Feas 1.00 1.00 | Pen 0.10 0.10
+It  17500  17502 | T(s) 2.84 | Feas 53 0.66 0.67 | NO-INFEASIBLE | Div 0.27 -1.00 | Feas 1.00 1.00 | Pen 0.10 0.10
+It  18000  18002 | T(s) 2.92 | Feas 61 0.66 0.67 | NO-INFEASIBLE | Div 0.22 -1.00 | Feas 1.00 1.00 | Pen 0.10 0.10
+It  18500  18502 | T(s) 3.01 | Feas 28 0.66 0.68 | NO-INFEASIBLE | Div 0.40 -1.00 | Feas 1.00 1.00 | Pen 0.10 0.10
+It  19000  19002 | T(s) 3.09 | Feas 36 0.66 0.68 | NO-INFEASIBLE | Div 0.32 -1.00 | Feas 1.00 1.00 | Pen 0.10 0.10
+It  19500  19502 | T(s) 3.16 | Feas 44 0.66 0.67 | NO-INFEASIBLE | Div 0.28 -1.00 | Feas 1.00 1.00 | Pen 0.10 0.10
+----- GENETIC ALGORITHM FINISHED AFTER 20000 ITERATIONS. TIME SPENT: 3.24122
+----- WRITING BEST SOLUTION IN : ../../results/heuristics/cvrp_hgs/Vrp-Set-A-n33/Vrp-Set-A-n33-hgs/0.hgs1.tour

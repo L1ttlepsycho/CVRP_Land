@@ -1,0 +1,6 @@
+[2024-03-11 14:56:47] test.py(114) : DEBUG_MODE: False
+[2024-03-11 14:56:47] test.py(115) : USE_CUDA: True, CUDA_DEVICE_NUM: 0
+[2024-03-11 14:56:47] test.py(116) : env_params{'problem_size': 50, 'pomo_size': 50, 'distribution': {'data_type': 'uniform', 'n_cluster': 3, 'n_cluster_mix': 1, 'lower': 0.2, 'upper': 0.8, 'std': 0.07}, 'load_path': 'data/vrp_uniform50_1000_seed1234.pkl', 'load_raw': None}
+[2024-03-11 14:56:47] test.py(116) : model_params{'embedding_dim': 64, 'sqrt_embedding_dim': 8.0, 'encoder_layer_num': 6, 'qkv_dim': 8, 'head_num': 8, 'logit_clipping': 10, 'ff_hidden_dim': 512, 'eval_type': 'argmax'}
+[2024-03-11 14:56:47] test.py(116) : tester_params{'use_cuda': True, 'cuda_device_num': 0, 'model_load': {'path': 'pretrained/checkpoint-cvrp-100.pt', 'epoch': 'test'}, 'test_episodes': 10000, 'test_batch_size': 1000, 'augmentation_enable': True, 'aug_factor': 8, 'aug_batch_size': 1000, 'test_data_load': {'enable': False, 'filename': ''}}
+[2024-03-11 14:56:47] test.py(116) : logger_params{'log_file': {'desc': 'test_cvrp50_pretrained_epochtest', 'filename': 'log.txt', 'filepath': './result/20240311_155645_test_cvrp50_pretrained_epochtest'}}
